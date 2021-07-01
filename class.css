@@ -1,0 +1,7 @@
+.letter{
+    color: rgb(52, 5, 61);
+}
+
+.letter:hover{
+    color: crimson;
+}
